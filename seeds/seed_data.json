@@ -1,6 +1,6 @@
 {
    "poll": "Favourite Linux distribution",
-   "question": "What is your favourite Linux distribution? (Redeployment test)",
+   "question": "What is your favourite Linux distribution? (Redeployment testing)",
    "options": [
 	"Mint",
 	"Fedora",
